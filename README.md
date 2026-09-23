@@ -4,6 +4,8 @@ Studio kreatif indie satu orang dari Tenggarong, Kalimantan Timur - membangun ap
 
 **Stack utama:** PHP · MySQL · Tailwind CSS v4 · Vanilla JavaScript · PWA
 
+**Dokumentasi terpusat:** <https://mahakammoonlightstudio-beep.github.io/docs/>
+
 ## Proyek
 
 | Proyek | Deskripsi | Live | Kode | Lisensi |
