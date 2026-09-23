@@ -1,0 +1,27 @@
+Dua tahun yang lalu saya hanya siswa SMK dengan satu pertanyaan: "kalau saya buat sendiri, kira-kira sejauh mana bisa?"
+
+Hari ini, Mahakam Moonlight Studio - studio kreatif indie satu orang milik saya - memiliki tujuh proyek yang tayang dan digunakan: dari forum komunitas, aplikasi untuk instansi pemerintah daerah, hingga sekolah tempat saya belajar.
+
+Perjalanannya kira-kira begini:
+
+2024 - Mulai membangun. Proyek pertama: kuis edukasi dan sistem penilaian sekolah untuk lingkungan sekitar. Belajar PHP dan MySQL dengan cara paling lambat tapi paling melekat: semuanya ditulis sendiri, tanpa framework.
+
+2025 - Dipercaya instansi. Dua aplikasi dibangun untuk Dinas Kearsipan dan Perpustakaan (Diarpus) Kabupaten Kutai Kartanegara, Bidang P2A: Kuis Arsip (kuesioner terjadwal + sertifikat digital terverifikasi) dan Main Pintar (kuis edukatif dengan live multiplayer berkode ruangan). Di sinilah saya belajar bahwa kode yang benar saja tidak cukup - lisensi, kepemilikan, dan dokumentasi juga bagian dari pekerjaan.
+
+2026 - Membereskan fondasi lalu meluncurkan yang terbesar. Mamoon Forum, forum komunitas PHP murni dengan voting anti-duplikat di level database, sistem reputasi, dan kompresi gambar otomatis, resmi tayang sebagai v2.0.0. Situs studio dan portofolio menjalani remake visual: scene 3D bulan murni canvas, hero 3D interaktif, dan transisi tema yang halus.
+
+Beberapa hal yang saya pegang sepanjang perjalanan:
+
+- Keamanan ditegakkan di lapisan yang tidak bisa dilewati browser - unique key di database, bukan cuma validasi form.
+- Setiap proyek punya versi, catatan rilis, lisensi yang jelas, dan kebijakan keamanan. Bahkan proyek satu orang sekalipun.
+- Dokumentasi terpusat: mahakammoonlightstudio-beep.github.io/docs - semua proyek, changelog, dan tangkapan layarnya di satu tempat.
+
+Terima kasih untuk guru-guru di SMKN 1 Tenggarong yang memberi ruang, dan komunitas open source yang gratisan-dokumentasinya menjadi guru saya setiap hari.
+
+Langkah berikutnya: memperdalam backend, membangun fitur diskusi bertingkat untuk forum, dan tetap mengirim karya - karena portofolio terbaik adalah yang terus bertumbuh.
+
+Profil studio: https://github.com/mahakammoonlightstudio-beep
+Dokumentasi terpusat: https://mahakammoonlightstudio-beep.github.io/docs/
+Kontak: mahakammoonlightstudio@gmail.com
+
+#WebDevelopment #PHP #MySQL #StudentDeveloper #IndieStudio #OpenSource #Journey
